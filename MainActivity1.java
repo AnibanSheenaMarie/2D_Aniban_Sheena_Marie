@@ -1,6 +1,6 @@
 package BSIT_2D_Activity1;
 
-public class Main {
+public class MainActivity1 {
     public static void main(String[] args) {
         Employee emp1 = new Employee("Sheena Marie", 20, 70000);
         Employee emp2 = new Employee("Sheena", 20, 80000);
